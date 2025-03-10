@@ -1,1 +1,1 @@
-*Volumetric Fog
+Volumetric Fog
